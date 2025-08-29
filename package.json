@@ -1,0 +1,17 @@
+{
+  "name": "rstest-module-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "rstest": "rstest",
+    "vitest": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rstest/core": "^0.3.1",
+    "vitest": "^3.2.4"
+  }
+}
