@@ -48,7 +48,7 @@ AssertionError: expected 3 to be 103 // Object.is equality
 
   15 |
   16 | test("reExportedSum", () => {
-> 17 |   expect(reExportedSum(1, 2)).toBe(103); // expected 103, got 3 actically
+> 17 |   expect(reExportedSum(1, 2)).toBe(103); // expected 103, got 3
      |                               ^
   18 | });
   19 |
